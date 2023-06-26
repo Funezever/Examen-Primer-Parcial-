@@ -1,0 +1,15 @@
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\bin\Debug\netstandard2.0\Examen1parcial.deps.json
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\bin\Debug\netstandard2.0\Examen1parcial.dll
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\bin\Debug\netstandard2.0\ref\Examen1parcial.dll
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\bin\Debug\netstandard2.0\Examen1parcial.pdb
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\Examen1parcial.csproj.AssemblyReference.cache
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\Examen1parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\Examen1parcial.AssemblyInfoInputs.cache
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\Examen1parcial.AssemblyInfo.cs
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\Examen1parcial.csproj.CoreCompileInputs.cache
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\Examen1parcial.dll
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\refint\Examen1parcial.dll
+C:\Users\Nohel Funez\Desktop\EXAMEN 1 PARCIAL LABORATORIO RAD\Examen1parcial\Examen1parcial\obj\Debug\netstandard2.0\Examen1parcial.pdb
